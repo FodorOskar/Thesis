@@ -1,0 +1,47 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <Intervencija>
+    <intervencija_id>5</intervencija_id>
+    <pacijent_jmbg>1234567812344</pacijent_jmbg>
+    <naziv_intervencije>Vadjenje umnjaka</naziv_intervencije>
+    <datum_intervencije>2022-06-23T00:00:00+02:00</datum_intervencije>
+    <vreme_intervencije>PT12H</vreme_intervencije>
+    <prezime_pacijent>Petrovic</prezime_pacijent>
+    <ime_pacijent>Petar</ime_pacijent>
+    <prezime_stomatologa>Kovacevic</prezime_stomatologa>
+    <komentar_intervencije>Intervencija uspesno izvrsena, bez komplikacija, pacijent treba da dodje na rutinsku proveru za 6 meseci.</komentar_intervencije>
+  </Intervencija>
+  <Intervencija>
+    <intervencija_id>1002</intervencija_id>
+    <pacijent_jmbg>2408997850153</pacijent_jmbg>
+    <naziv_intervencije>Lecenje zuba</naziv_intervencije>
+    <datum_intervencije>2023-09-25T00:00:00+02:00</datum_intervencije>
+    <vreme_intervencije>PT12H43M</vreme_intervencije>
+    <prezime_pacijent>Fodor</prezime_pacijent>
+    <ime_pacijent>Oskar</ime_pacijent>
+    <prezime_stomatologa>Poznic</prezime_stomatologa>
+    <komentar_intervencije>Lecenje trajalo 2 meseca, zub izlecen.</komentar_intervencije>
+  </Intervencija>
+  <Intervencija>
+    <intervencija_id>1003</intervencija_id>
+    <pacijent_jmbg>1409998453212</pacijent_jmbg>
+    <naziv_intervencije>Poliranje zuba</naziv_intervencije>
+    <datum_intervencije>2023-09-25T00:00:00+02:00</datum_intervencije>
+    <vreme_intervencije>PT12H45M</vreme_intervencije>
+    <prezime_pacijent>Petrovic</prezime_pacijent>
+    <ime_pacijent>Nikola</ime_pacijent>
+    <prezime_stomatologa>Poznic</prezime_stomatologa>
+    <komentar_intervencije>Bez komplikacija</komentar_intervencije>
+  </Intervencija>
+  <Intervencija>
+    <intervencija_id>1004</intervencija_id>
+    <pacijent_jmbg>808980450210</pacijent_jmbg>
+    <naziv_intervencije>Viniri 13-23</naziv_intervencije>
+    <datum_intervencije>2023-09-25T00:00:00+02:00</datum_intervencije>
+    <vreme_intervencije>PT12H46M</vreme_intervencije>
+    <prezime_pacijent>Colovic</prezime_pacijent>
+    <ime_pacijent>Radomir</ime_pacijent>
+    <prezime_stomatologa>Kovacevic</prezime_stomatologa>
+    <komentar_intervencije>Viniri pravilno nalezu na zube, pacijent nema problema sa zagrizajem.</komentar_intervencije>
+  </Intervencija>
+</NewDataSet>

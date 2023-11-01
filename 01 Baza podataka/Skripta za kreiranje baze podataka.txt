@@ -1,0 +1,27 @@
+USE [master]
+GO
+CREATE DATABASE [stomatoloska_ordinacija]
+GO
+
+USE [stomatoloska_ordinacija]
+
+
+CREATE TABLE [dbo].[intervencija](
+	[intervencija_id] INT PRIMARY KEY IDENTITY(1,1),
+	[pacijent_jmbg] BIGINT NOT NULL check(pacijent_jmbg between 0000000000001 and 9999999999999),
+    [naziv_intervencije] VARCHAR (25) NOT NULL,
+    [datum_intervencije] DATE NOT NULL,
+    [vreme_intervencije] TIME NOT NULL,
+    [prezime_pacijent] VARCHAR (40) NOT NULL,
+    [ime_pacijent] VARCHAR(40) NOT NULL,
+    [prezime_stomatologa] VARCHAR (40) NOT NULL,
+    [komentar_intervencije] TEXT
+)
+GO
+SELECT * FROM intervencija
+ORDER BY intervencija_id DESC
+
+INSERT INTO intervencija (pacijent_jmbg, naziv_intervencije, datum_intervencije, vreme_intervencije, prezime_pacijent, ime_pacijent, prezime_stomatologa, komentar_intervencije) VALUES ('1234567812344', 'Vadjenje umnjaka', '2022-06-23', '12:00:00', 'Petrovic', 'Petar', 'Kovacevic', 'Intervencija uspesno izvrsena, bez komplikacija, pacijent treba da dodje na rutinsku proveru za 6 meseci.')
+INSERT INTO intervencija (pacijent_jmbg, naziv_intervencije, datum_intervencije, vreme_intervencije, prezime_pacijent, ime_pacijent, prezime_stomatologa, komentar_intervencije) VALUES ('1208997723450', 'Plombiranje 7ice', '2023-01-16', '09:00:00', 'Lukicev', 'Borko', 'Kovacevic', 'Intervencija uspesno izvrsena, bez komplikacija, pacijent treba da dodje na rutinsku proveru za 6 meseci.')
+INSERT INTO intervencija (pacijent_jmbg, naziv_intervencije, datum_intervencije, vreme_intervencije, prezime_pacijent, ime_pacijent, prezime_stomatologa, komentar_intervencije) VALUES ('1902888340123', 'Poliranje zuba', '2023-03-13', '13:00:00', 'Markovic', 'Marko', 'Kovacevic', 'Intervencija uspesno izvrsena, bez komplikacija.')
+GO

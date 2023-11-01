@@ -1,0 +1,228 @@
+C:\PODACI\Ljubica\002 RADNO NA POSLU\NASTAVA\2016_17\SE1\000 CASOVI\Cas 9\KorisnickiInterfejs\KorisnickiInterfejs\KorisnickiInterfejs\bin\Debug\KorisnickiInterfejs.exe
+C:\PODACI\Ljubica\002 RADNO NA POSLU\NASTAVA\2016_17\SE1\000 CASOVI\Cas 9\KorisnickiInterfejs\KorisnickiInterfejs\KorisnickiInterfejs\bin\Debug\KorisnickiInterfejs.pdb
+C:\PODACI\Ljubica\002 RADNO NA POSLU\NASTAVA\2016_17\SE1\000 CASOVI\Cas 9\KorisnickiInterfejs\KorisnickiInterfejs\KorisnickiInterfejs\obj\x86\Debug\KorisnickiInterfejs.frmSaKlasamaEntityFrameworka.resources
+C:\PODACI\Ljubica\002 RADNO NA POSLU\NASTAVA\2016_17\SE1\000 CASOVI\Cas 9\KorisnickiInterfejs\KorisnickiInterfejs\KorisnickiInterfejs\obj\x86\Debug\KorisnickiInterfejs.frmSaSopstvenomBibliotekomDBUtils.resources
+C:\PODACI\Ljubica\002 RADNO NA POSLU\NASTAVA\2016_17\SE1\000 CASOVI\Cas 9\KorisnickiInterfejs\KorisnickiInterfejs\KorisnickiInterfejs\obj\x86\Debug\KorisnickiInterfejs.frmSaStandardnimKlasama.resources
+C:\PODACI\Ljubica\002 RADNO NA POSLU\NASTAVA\2016_17\SE1\000 CASOVI\Cas 9\KorisnickiInterfejs\KorisnickiInterfejs\KorisnickiInterfejs\obj\x86\Debug\KorisnickiInterfejs.frmSaStoredProcedurom.resources
+C:\PODACI\Ljubica\002 RADNO NA POSLU\NASTAVA\2016_17\SE1\000 CASOVI\Cas 9\KorisnickiInterfejs\KorisnickiInterfejs\KorisnickiInterfejs\obj\x86\Debug\KorisnickiInterfejs.frmSaViseslojnimSopstvenimKlasama.resources
+C:\PODACI\Ljubica\002 RADNO NA POSLU\NASTAVA\2016_17\SE1\000 CASOVI\Cas 9\KorisnickiInterfejs\KorisnickiInterfejs\KorisnickiInterfejs\obj\x86\Debug\KorisnickiInterfejs.Properties.Resources.resources
+C:\PODACI\Ljubica\002 RADNO NA POSLU\NASTAVA\2016_17\SE1\000 CASOVI\Cas 9\KorisnickiInterfejs\KorisnickiInterfejs\KorisnickiInterfejs\obj\x86\Debug\KorisnickiInterfejs.csproj.GenerateResource.Cache
+C:\PODACI\Ljubica\002 RADNO NA POSLU\NASTAVA\2016_17\SE1\000 CASOVI\Cas 9\KorisnickiInterfejs\KorisnickiInterfejs\KorisnickiInterfejs\obj\x86\Debug\KorisnickiInterfejs.exe
+C:\PODACI\Ljubica\002 RADNO NA POSLU\NASTAVA\2016_17\SE1\000 CASOVI\Cas 9\KorisnickiInterfejs\KorisnickiInterfejs\KorisnickiInterfejs\obj\x86\Debug\KorisnickiInterfejs.pdb
+c:\PODACI\Ljubica\002 RADNO NA POSLU\NASTAVA\2016_17\SE1\000 CASOVI\Cas 11\KorisnickiInterfejs\KorisnickiInterfejs\KorisnickiInterfejs\obj\x86\Debug\KorisnickiInterfejs.exe
+c:\PODACI\Ljubica\002 RADNO NA POSLU\NASTAVA\2016_17\SE1\000 CASOVI\Cas 11\KorisnickiInterfejs\KorisnickiInterfejs\KorisnickiInterfejs\obj\x86\Debug\KorisnickiInterfejs.pdb
+c:\PODACI\Ljubica\002 RADNO NA POSLU\NASTAVA\2016_17\SE1\000 CASOVI\Cas 11\KorisnickiInterfejs\KorisnickiInterfejs\KorisnickiInterfejs\bin\Debug\KorisnickiInterfejs.exe
+c:\PODACI\Ljubica\002 RADNO NA POSLU\NASTAVA\2016_17\SE1\000 CASOVI\Cas 11\KorisnickiInterfejs\KorisnickiInterfejs\KorisnickiInterfejs\bin\Debug\KorisnickiInterfejs.pdb
+c:\PODACI\Ljubica\002 RADNO NA POSLU\NASTAVA\2016_17\SE1\000 CASOVI\Cas 11\KorisnickiInterfejs\KorisnickiInterfejs\KorisnickiInterfejs\obj\x86\Debug\KorisnickiInterfejs.frmSaKlasamaEntityFrameworka.resources
+c:\PODACI\Ljubica\002 RADNO NA POSLU\NASTAVA\2016_17\SE1\000 CASOVI\Cas 11\KorisnickiInterfejs\KorisnickiInterfejs\KorisnickiInterfejs\obj\x86\Debug\KorisnickiInterfejs.frmSaSopstvenomBibliotekomDBUtils.resources
+c:\PODACI\Ljubica\002 RADNO NA POSLU\NASTAVA\2016_17\SE1\000 CASOVI\Cas 11\KorisnickiInterfejs\KorisnickiInterfejs\KorisnickiInterfejs\obj\x86\Debug\KorisnickiInterfejs.frmSaStandardnimKlasama.resources
+c:\PODACI\Ljubica\002 RADNO NA POSLU\NASTAVA\2016_17\SE1\000 CASOVI\Cas 11\KorisnickiInterfejs\KorisnickiInterfejs\KorisnickiInterfejs\obj\x86\Debug\KorisnickiInterfejs.frmSaStoredProcedurom.resources
+c:\PODACI\Ljubica\002 RADNO NA POSLU\NASTAVA\2016_17\SE1\000 CASOVI\Cas 11\KorisnickiInterfejs\KorisnickiInterfejs\KorisnickiInterfejs\obj\x86\Debug\KorisnickiInterfejs.frmSaViseslojnimSopstvenimKlasama.resources
+c:\PODACI\Ljubica\002 RADNO NA POSLU\NASTAVA\2016_17\SE1\000 CASOVI\Cas 11\KorisnickiInterfejs\KorisnickiInterfejs\KorisnickiInterfejs\obj\x86\Debug\KorisnickiInterfejs.Properties.Resources.resources
+c:\PODACI\Ljubica\002 RADNO NA POSLU\NASTAVA\2016_17\SE1\000 CASOVI\Cas 11\KorisnickiInterfejs\KorisnickiInterfejs\KorisnickiInterfejs\obj\x86\Debug\KorisnickiInterfejs.csproj.GenerateResource.Cache
+c:\PODACI\Ljubica\002 RADNO NA POSLU\NASTAVA\2016_17\SE1\000 CASOVI\Cas 11\KorisnickiInterfejs\KorisnickiInterfejs\KorisnickiInterfejs\obj\x86\Debug\KorisnickiInterfejs.csprojResolveAssemblyReference.cache
+c:\PODACI\Ljubica\002 RADNO NA POSLU\NASTAVA\2016_17\SE1\000 CASOVI\Cas 11\KorisnickiInterfejs\KorisnickiInterfejs\KorisnickiInterfejs\bin\Debug\SqlDBUtils.dll
+c:\PODACI\Ljubica\002 RADNO NA POSLU\NASTAVA\2016_17\SE1\000 CASOVI\Cas 11\KorisnickiInterfejs\KorisnickiInterfejs\KorisnickiInterfejs\bin\Debug\SqlDBUtils.pdb
+c:\PODACI\Ljubica\002 RADNO NA POSLU\NASTAVA\2016_17\SE1\000 CASOVI\Cas 11\KorisnickiInterfejs\KorisnickiInterfejs\KorisnickiInterfejs\bin\Debug\KlasePodataka.dll
+c:\PODACI\Ljubica\002 RADNO NA POSLU\NASTAVA\2016_17\SE1\000 CASOVI\Cas 11\KorisnickiInterfejs\KorisnickiInterfejs\KorisnickiInterfejs\bin\Debug\KlasePodataka.pdb
+c:\PODACI\Ljubica\002 RADNO NA POSLU\NASTAVA\2016_17\SE1\000 CASOVI\cas 12\KorisnickiInterfejs\KorisnickiInterfejs\KorisnickiInterfejs\obj\x86\Debug\KorisnickiInterfejs.exe
+c:\PODACI\Ljubica\002 RADNO NA POSLU\NASTAVA\2016_17\SE1\000 CASOVI\cas 12\KorisnickiInterfejs\KorisnickiInterfejs\KorisnickiInterfejs\obj\x86\Debug\KorisnickiInterfejs.pdb
+c:\PODACI\Ljubica\002 RADNO NA POSLU\NASTAVA\2016_17\SE1\000 CASOVI\cas 12\KorisnickiInterfejs\KorisnickiInterfejs\KorisnickiInterfejs\obj\x86\Debug\KorisnickiInterfejs.csprojResolveAssemblyReference.cache
+c:\PODACI\Ljubica\002 RADNO NA POSLU\NASTAVA\2016_17\SE1\000 CASOVI\cas 12\KorisnickiInterfejs\KorisnickiInterfejs\KorisnickiInterfejs\obj\x86\Debug\KorisnickiInterfejs.frmSaKlasamaEntityFrameworka.resources
+c:\PODACI\Ljubica\002 RADNO NA POSLU\NASTAVA\2016_17\SE1\000 CASOVI\cas 12\KorisnickiInterfejs\KorisnickiInterfejs\KorisnickiInterfejs\obj\x86\Debug\KorisnickiInterfejs.frmSaSopstvenomBibliotekomDBUtils.resources
+c:\PODACI\Ljubica\002 RADNO NA POSLU\NASTAVA\2016_17\SE1\000 CASOVI\cas 12\KorisnickiInterfejs\KorisnickiInterfejs\KorisnickiInterfejs\obj\x86\Debug\KorisnickiInterfejs.frmSaStandardnimKlasama.resources
+c:\PODACI\Ljubica\002 RADNO NA POSLU\NASTAVA\2016_17\SE1\000 CASOVI\cas 12\KorisnickiInterfejs\KorisnickiInterfejs\KorisnickiInterfejs\obj\x86\Debug\KorisnickiInterfejs.frmSaStoredProcedurom.resources
+c:\PODACI\Ljubica\002 RADNO NA POSLU\NASTAVA\2016_17\SE1\000 CASOVI\cas 12\KorisnickiInterfejs\KorisnickiInterfejs\KorisnickiInterfejs\obj\x86\Debug\KorisnickiInterfejs.frmSaViseslojnimSopstvenimKlasama.resources
+c:\PODACI\Ljubica\002 RADNO NA POSLU\NASTAVA\2016_17\SE1\000 CASOVI\cas 12\KorisnickiInterfejs\KorisnickiInterfejs\KorisnickiInterfejs\obj\x86\Debug\KorisnickiInterfejs.Properties.Resources.resources
+c:\PODACI\Ljubica\002 RADNO NA POSLU\NASTAVA\2016_17\SE1\000 CASOVI\cas 12\KorisnickiInterfejs\KorisnickiInterfejs\KorisnickiInterfejs\obj\x86\Debug\KorisnickiInterfejs.csproj.GenerateResource.Cache
+c:\PODACI\Ljubica\002 RADNO NA POSLU\NASTAVA\2016_17\SE1\000 CASOVI\cas 12\KorisnickiInterfejs\KorisnickiInterfejs\KorisnickiInterfejs\bin\Debug\KorisnickiInterfejs.exe
+c:\PODACI\Ljubica\002 RADNO NA POSLU\NASTAVA\2016_17\SE1\000 CASOVI\cas 12\KorisnickiInterfejs\KorisnickiInterfejs\KorisnickiInterfejs\bin\Debug\KorisnickiInterfejs.pdb
+c:\PODACI\Ljubica\002 RADNO NA POSLU\NASTAVA\2016_17\SE1\000 CASOVI\cas 12\KorisnickiInterfejs\KorisnickiInterfejs\KorisnickiInterfejs\bin\Debug\EntityFrameworkKlase.dll
+c:\PODACI\Ljubica\002 RADNO NA POSLU\NASTAVA\2016_17\SE1\000 CASOVI\cas 12\KorisnickiInterfejs\KorisnickiInterfejs\KorisnickiInterfejs\bin\Debug\KlasePodataka.dll
+c:\PODACI\Ljubica\002 RADNO NA POSLU\NASTAVA\2016_17\SE1\000 CASOVI\cas 12\KorisnickiInterfejs\KorisnickiInterfejs\KorisnickiInterfejs\bin\Debug\SqlDBUtils.dll
+c:\PODACI\Ljubica\002 RADNO NA POSLU\NASTAVA\2016_17\SE1\000 CASOVI\cas 12\KorisnickiInterfejs\KorisnickiInterfejs\KorisnickiInterfejs\bin\Debug\EntityFrameworkKlase.pdb
+c:\PODACI\Ljubica\002 RADNO NA POSLU\NASTAVA\2016_17\SE1\000 CASOVI\cas 12\KorisnickiInterfejs\KorisnickiInterfejs\KorisnickiInterfejs\bin\Debug\KlasePodataka.pdb
+c:\PODACI\Ljubica\002 RADNO NA POSLU\NASTAVA\2016_17\SE1\000 CASOVI\cas 12\KorisnickiInterfejs\KorisnickiInterfejs\KorisnickiInterfejs\bin\Debug\SqlDBUtils.pdb
+c:\PODACI\Ljubica\002 RADNO NA POSLU\NASTAVA\2016_17\SE1\000 CASOVI\cas 12\KorisnickiInterfejs\KorisnickiInterfejs\KorisnickiInterfejs\bin\Debug\KorisnickiInterfejs.exe.config
+c:\LJUBICA\Nastava\000 ААААА Google ucionica\predavanja INTERNET PROGRAMIRANJE\05 cas ONLINE 13 11 2020\TEME\Tema 6\RadNaViseNacina\KorisnickiInterfejs\KorisnickiInterfejs\KorisnickiInterfejs\bin\Debug\KorisnickiInterfejs.exe.config
+c:\LJUBICA\Nastava\000 ААААА Google ucionica\predavanja INTERNET PROGRAMIRANJE\05 cas ONLINE 13 11 2020\TEME\Tema 6\RadNaViseNacina\KorisnickiInterfejs\KorisnickiInterfejs\KorisnickiInterfejs\obj\x86\Debug\KorisnickiInterfejs.exe
+c:\LJUBICA\Nastava\000 ААААА Google ucionica\predavanja INTERNET PROGRAMIRANJE\05 cas ONLINE 13 11 2020\TEME\Tema 6\RadNaViseNacina\KorisnickiInterfejs\KorisnickiInterfejs\KorisnickiInterfejs\obj\x86\Debug\KorisnickiInterfejs.pdb
+c:\LJUBICA\AAA_GUC\0001 ZIMSKI SEMESTAR\000 AAA aaa Materijal VEZBE\05 cas vezbe\Primer koda C# desktop vise nacina\KorisnickiInterfejs\KorisnickiInterfejs\KorisnickiInterfejs\bin\Debug\KorisnickiInterfejs.exe.config
+c:\LJUBICA\AAA_GUC\0001 ZIMSKI SEMESTAR\000 AAA aaa Materijal VEZBE\05 cas vezbe\Primer koda C# desktop vise nacina\KorisnickiInterfejs\KorisnickiInterfejs\KorisnickiInterfejs\obj\x86\Debug\KorisnickiInterfejs.exe
+c:\LJUBICA\AAA_GUC\0001 ZIMSKI SEMESTAR\000 AAA aaa Materijal VEZBE\05 cas vezbe\Primer koda C# desktop vise nacina\KorisnickiInterfejs\KorisnickiInterfejs\KorisnickiInterfejs\obj\x86\Debug\KorisnickiInterfejs.pdb
+C:\LJUBICA\AAA_GUC\0002 LETNJI SEMESTAR\aa OSNOVNE programski prevodioci\02 VEZBE\02 cas vezbe\Primer koda C# desktop vise nacina\KorisnickiInterfejs\KorisnickiInterfejs\KorisnickiInterfejs\obj\x86\Debug\KorisnickiInterfejs.csproj.AssemblyReference.cache
+C:\LJUBICA\AAA_GUC\0002 LETNJI SEMESTAR\aa OSNOVNE programski prevodioci\02 VEZBE\02 cas vezbe\Primer koda C# desktop vise nacina\KorisnickiInterfejs\KorisnickiInterfejs\KorisnickiInterfejs\obj\x86\Debug\KorisnickiInterfejs.exe
+C:\LJUBICA\AAA_GUC\0002 LETNJI SEMESTAR\aa OSNOVNE programski prevodioci\02 VEZBE\02 cas vezbe\Primer koda C# desktop vise nacina\KorisnickiInterfejs\KorisnickiInterfejs\KorisnickiInterfejs\obj\x86\Debug\KorisnickiInterfejs.pdb
+C:\LJUBICA\Primer koda C# desktop vise nacina\KorisnickiInterfejs\KorisnickiInterfejs\KorisnickiInterfejs\bin\Debug\KorisnickiInterfejs.exe.config
+C:\LJUBICA\Primer koda C# desktop vise nacina\KorisnickiInterfejs\KorisnickiInterfejs\KorisnickiInterfejs\bin\Debug\KorisnickiInterfejs.exe
+C:\LJUBICA\Primer koda C# desktop vise nacina\KorisnickiInterfejs\KorisnickiInterfejs\KorisnickiInterfejs\bin\Debug\KorisnickiInterfejs.pdb
+C:\LJUBICA\Primer koda C# desktop vise nacina\KorisnickiInterfejs\KorisnickiInterfejs\KorisnickiInterfejs\bin\Debug\EntityFrameworkKlase.dll
+C:\LJUBICA\Primer koda C# desktop vise nacina\KorisnickiInterfejs\KorisnickiInterfejs\KorisnickiInterfejs\bin\Debug\KlasePodataka.dll
+C:\LJUBICA\Primer koda C# desktop vise nacina\KorisnickiInterfejs\KorisnickiInterfejs\KorisnickiInterfejs\bin\Debug\SqlDBUtils.dll
+C:\LJUBICA\Primer koda C# desktop vise nacina\KorisnickiInterfejs\KorisnickiInterfejs\KorisnickiInterfejs\bin\Debug\EntityFrameworkKlase.pdb
+C:\LJUBICA\Primer koda C# desktop vise nacina\KorisnickiInterfejs\KorisnickiInterfejs\KorisnickiInterfejs\bin\Debug\EntityFrameworkKlase.dll.config
+C:\LJUBICA\Primer koda C# desktop vise nacina\KorisnickiInterfejs\KorisnickiInterfejs\KorisnickiInterfejs\bin\Debug\KlasePodataka.pdb
+C:\LJUBICA\Primer koda C# desktop vise nacina\KorisnickiInterfejs\KorisnickiInterfejs\KorisnickiInterfejs\bin\Debug\SqlDBUtils.pdb
+C:\LJUBICA\Primer koda C# desktop vise nacina\KorisnickiInterfejs\KorisnickiInterfejs\KorisnickiInterfejs\obj\x86\Debug\KorisnickiInterfejs.csproj.AssemblyReference.cache
+C:\LJUBICA\Primer koda C# desktop vise nacina\KorisnickiInterfejs\KorisnickiInterfejs\KorisnickiInterfejs\obj\x86\Debug\KorisnickiInterfejs.frmSaKlasamaEntityFrameworka.resources
+C:\LJUBICA\Primer koda C# desktop vise nacina\KorisnickiInterfejs\KorisnickiInterfejs\KorisnickiInterfejs\obj\x86\Debug\KorisnickiInterfejs.frmSaSopstvenomBibliotekomDBUtils.resources
+C:\LJUBICA\Primer koda C# desktop vise nacina\KorisnickiInterfejs\KorisnickiInterfejs\KorisnickiInterfejs\obj\x86\Debug\KorisnickiInterfejs.frmSaStandardnimKlasama.resources
+C:\LJUBICA\Primer koda C# desktop vise nacina\KorisnickiInterfejs\KorisnickiInterfejs\KorisnickiInterfejs\obj\x86\Debug\KorisnickiInterfejs.frmSaStoredProcedurom.resources
+C:\LJUBICA\Primer koda C# desktop vise nacina\KorisnickiInterfejs\KorisnickiInterfejs\KorisnickiInterfejs\obj\x86\Debug\KorisnickiInterfejs.frmSaViseslojnimSopstvenimKlasama.resources
+C:\LJUBICA\Primer koda C# desktop vise nacina\KorisnickiInterfejs\KorisnickiInterfejs\KorisnickiInterfejs\obj\x86\Debug\KorisnickiInterfejs.Properties.Resources.resources
+C:\LJUBICA\Primer koda C# desktop vise nacina\KorisnickiInterfejs\KorisnickiInterfejs\KorisnickiInterfejs\obj\x86\Debug\KorisnickiInterfejs.csproj.GenerateResource.cache
+C:\LJUBICA\Primer koda C# desktop vise nacina\KorisnickiInterfejs\KorisnickiInterfejs\KorisnickiInterfejs\obj\x86\Debug\KorisnickiInterfejs.csproj.CoreCompileInputs.cache
+C:\LJUBICA\Primer koda C# desktop vise nacina\KorisnickiInterfejs\KorisnickiInterfejs\KorisnickiInterfejs\obj\x86\Debug\KorisnickiInterfejs.csproj.CopyComplete
+C:\LJUBICA\Primer koda C# desktop vise nacina\KorisnickiInterfejs\KorisnickiInterfejs\KorisnickiInterfejs\obj\x86\Debug\KorisnickiInterfejs.exe
+C:\LJUBICA\Primer koda C# desktop vise nacina\KorisnickiInterfejs\KorisnickiInterfejs\KorisnickiInterfejs\obj\x86\Debug\KorisnickiInterfejs.pdb
+c:\LJUBICA\AAA_GUC\0002 LETNJI SEMESTAR\aa OSNOVNE programski prevodioci\02 VEZBE\04 cas vezbe\Projekat04cas\KorisnickiInterfejs\KorisnickiInterfejs\KorisnickiInterfejs\bin\Debug\KorisnickiInterfejs.exe.config
+c:\LJUBICA\AAA_GUC\0002 LETNJI SEMESTAR\aa OSNOVNE programski prevodioci\02 VEZBE\04 cas vezbe\Projekat04cas\KorisnickiInterfejs\KorisnickiInterfejs\KorisnickiInterfejs\obj\x86\Debug\KorisnickiInterfejs.exe
+c:\LJUBICA\AAA_GUC\0002 LETNJI SEMESTAR\aa OSNOVNE programski prevodioci\02 VEZBE\04 cas vezbe\Projekat04cas\KorisnickiInterfejs\KorisnickiInterfejs\KorisnickiInterfejs\obj\x86\Debug\KorisnickiInterfejs.pdb
+c:\LJUBICA\AAA_GUC\0002 LETNJI SEMESTAR\aa OSNOVNE programski prevodioci\02 VEZBE\04 cas vezbe\Projekat04cas\KorisnickiInterfejs\KorisnickiInterfejs\KorisnickiInterfejs\obj\x86\Debug\KorisnickiInterfejs.csprojResolveAssemblyReference.cache
+c:\LJUBICA\AAA_GUC\0002 LETNJI SEMESTAR\aa OSNOVNE programski prevodioci\02 VEZBE\04 cas vezbe\Projekat04cas\KorisnickiInterfejs\KorisnickiInterfejs\KorisnickiInterfejs\obj\x86\Debug\KorisnickiInterfejs.frmSaViseslojnimSopstvenimKlasama.resources
+c:\LJUBICA\AAA_GUC\0002 LETNJI SEMESTAR\aa OSNOVNE programski prevodioci\02 VEZBE\04 cas vezbe\Projekat04cas\KorisnickiInterfejs\KorisnickiInterfejs\KorisnickiInterfejs\obj\x86\Debug\KorisnickiInterfejs.Properties.Resources.resources
+c:\LJUBICA\AAA_GUC\0002 LETNJI SEMESTAR\aa OSNOVNE programski prevodioci\02 VEZBE\04 cas vezbe\Projekat04cas\KorisnickiInterfejs\KorisnickiInterfejs\KorisnickiInterfejs\obj\x86\Debug\KorisnickiInterfejs.csproj.GenerateResource.Cache
+c:\LJUBICA\AAA_GUC\0002 LETNJI SEMESTAR\aa OSNOVNE programski prevodioci\02 VEZBE\04 cas vezbe\Projekat04cas\KorisnickiInterfejs\KorisnickiInterfejs\KorisnickiInterfejs\bin\Debug\KorisnickiInterfejs.exe
+c:\LJUBICA\AAA_GUC\0002 LETNJI SEMESTAR\aa OSNOVNE programski prevodioci\02 VEZBE\04 cas vezbe\Projekat04cas\KorisnickiInterfejs\KorisnickiInterfejs\KorisnickiInterfejs\bin\Debug\KorisnickiInterfejs.pdb
+c:\LJUBICA\AAA_GUC\0002 LETNJI SEMESTAR\aa OSNOVNE programski prevodioci\02 VEZBE\04 cas vezbe\Projekat04cas\KorisnickiInterfejs\KorisnickiInterfejs\KorisnickiInterfejs\bin\Debug\DBUtils.dll
+c:\LJUBICA\AAA_GUC\0002 LETNJI SEMESTAR\aa OSNOVNE programski prevodioci\02 VEZBE\04 cas vezbe\Projekat04cas\KorisnickiInterfejs\KorisnickiInterfejs\KorisnickiInterfejs\bin\Debug\KlasePodataka.dll
+c:\LJUBICA\AAA_GUC\0002 LETNJI SEMESTAR\aa OSNOVNE programski prevodioci\02 VEZBE\04 cas vezbe\Projekat04cas\KorisnickiInterfejs\KorisnickiInterfejs\KorisnickiInterfejs\bin\Debug\DBUtils.pdb
+c:\LJUBICA\AAA_GUC\0002 LETNJI SEMESTAR\aa OSNOVNE programski prevodioci\02 VEZBE\04 cas vezbe\Projekat04cas\KorisnickiInterfejs\KorisnickiInterfejs\KorisnickiInterfejs\bin\Debug\EntityFrameworkKlase.pdb
+c:\LJUBICA\AAA_GUC\0002 LETNJI SEMESTAR\aa OSNOVNE programski prevodioci\02 VEZBE\04 cas vezbe\Projekat04cas\KorisnickiInterfejs\KorisnickiInterfejs\KorisnickiInterfejs\bin\Debug\KlasePodataka.pdb
+c:\LJUBICA\AAA_GUC\0002 LETNJI SEMESTAR\aa OSNOVNE programski prevodioci\02 VEZBE\04 cas vezbe\Projekat04cas\KorisnickiInterfejs\KorisnickiInterfejs\KorisnickiInterfejs\bin\Debug\SqlDBUtils.pdb
+C:\FaksSSD\3 Godina\PP\Evidencija izvrsenih intervencija u stomatoloskoj ordinaciji\KorisnickiInterfejs\KorisnickiInterfejs\KorisnickiInterfejs\bin\Debug\KorisnickiInterfejs.exe.config
+C:\FaksSSD\3 Godina\PP\Evidencija izvrsenih intervencija u stomatoloskoj ordinaciji\KorisnickiInterfejs\KorisnickiInterfejs\KorisnickiInterfejs\bin\Debug\KorisnickiInterfejs.exe
+C:\FaksSSD\3 Godina\PP\Evidencija izvrsenih intervencija u stomatoloskoj ordinaciji\KorisnickiInterfejs\KorisnickiInterfejs\KorisnickiInterfejs\bin\Debug\KorisnickiInterfejs.pdb
+C:\FaksSSD\3 Godina\PP\Evidencija izvrsenih intervencija u stomatoloskoj ordinaciji\KorisnickiInterfejs\KorisnickiInterfejs\KorisnickiInterfejs\bin\Debug\DBUtils.dll
+C:\FaksSSD\3 Godina\PP\Evidencija izvrsenih intervencija u stomatoloskoj ordinaciji\KorisnickiInterfejs\KorisnickiInterfejs\KorisnickiInterfejs\bin\Debug\KlasePodataka.dll
+C:\FaksSSD\3 Godina\PP\Evidencija izvrsenih intervencija u stomatoloskoj ordinaciji\KorisnickiInterfejs\KorisnickiInterfejs\KorisnickiInterfejs\bin\Debug\DBUtils.pdb
+C:\FaksSSD\3 Godina\PP\Evidencija izvrsenih intervencija u stomatoloskoj ordinaciji\KorisnickiInterfejs\KorisnickiInterfejs\KorisnickiInterfejs\bin\Debug\EntityFrameworkKlase.pdb
+C:\FaksSSD\3 Godina\PP\Evidencija izvrsenih intervencija u stomatoloskoj ordinaciji\KorisnickiInterfejs\KorisnickiInterfejs\KorisnickiInterfejs\bin\Debug\EntityFrameworkKlase.dll.config
+C:\FaksSSD\3 Godina\PP\Evidencija izvrsenih intervencija u stomatoloskoj ordinaciji\KorisnickiInterfejs\KorisnickiInterfejs\KorisnickiInterfejs\bin\Debug\KlasePodataka.pdb
+C:\FaksSSD\3 Godina\PP\Evidencija izvrsenih intervencija u stomatoloskoj ordinaciji\KorisnickiInterfejs\KorisnickiInterfejs\KorisnickiInterfejs\bin\Debug\SqlDBUtils.pdb
+C:\FaksSSD\3 Godina\PP\Evidencija izvrsenih intervencija u stomatoloskoj ordinaciji\KorisnickiInterfejs\KorisnickiInterfejs\KorisnickiInterfejs\obj\x86\Debug\KorisnickiInterfejs.csproj.AssemblyReference.cache
+C:\FaksSSD\3 Godina\PP\Evidencija izvrsenih intervencija u stomatoloskoj ordinaciji\KorisnickiInterfejs\KorisnickiInterfejs\KorisnickiInterfejs\obj\x86\Debug\KorisnickiInterfejs.csproj.SuggestedBindingRedirects.cache
+C:\FaksSSD\3 Godina\PP\Evidencija izvrsenih intervencija u stomatoloskoj ordinaciji\KorisnickiInterfejs\KorisnickiInterfejs\KorisnickiInterfejs\obj\x86\Debug\KorisnickiInterfejs.formEvidencijaIzvrsenihIntervencija.resources
+C:\FaksSSD\3 Godina\PP\Evidencija izvrsenih intervencija u stomatoloskoj ordinaciji\KorisnickiInterfejs\KorisnickiInterfejs\KorisnickiInterfejs\obj\x86\Debug\KorisnickiInterfejs.Properties.Resources.resources
+C:\FaksSSD\3 Godina\PP\Evidencija izvrsenih intervencija u stomatoloskoj ordinaciji\KorisnickiInterfejs\KorisnickiInterfejs\KorisnickiInterfejs\obj\x86\Debug\KorisnickiInterfejs.csproj.GenerateResource.cache
+C:\FaksSSD\3 Godina\PP\Evidencija izvrsenih intervencija u stomatoloskoj ordinaciji\KorisnickiInterfejs\KorisnickiInterfejs\KorisnickiInterfejs\obj\x86\Debug\KorisnickiInterfejs.csproj.CoreCompileInputs.cache
+C:\FaksSSD\3 Godina\PP\Evidencija izvrsenih intervencija u stomatoloskoj ordinaciji\KorisnickiInterfejs\KorisnickiInterfejs\KorisnickiInterfejs\obj\x86\Debug\KorisnickiInterfejs.csproj.CopyComplete
+C:\FaksSSD\3 Godina\PP\Evidencija izvrsenih intervencija u stomatoloskoj ordinaciji\KorisnickiInterfejs\KorisnickiInterfejs\KorisnickiInterfejs\obj\x86\Debug\KorisnickiInterfejs.exe
+C:\FaksSSD\3 Godina\PP\Evidencija izvrsenih intervencija u stomatoloskoj ordinaciji\KorisnickiInterfejs\KorisnickiInterfejs\KorisnickiInterfejs\obj\x86\Debug\KorisnickiInterfejs.pdb
+C:\Fakultet\Programski Prevodioci\Evidencija izvrsenih intervencija u stomatoloskoj ordinaciji\KorisnickiInterfejs\KorisnickiInterfejs\KorisnickiInterfejs\bin\Debug\KorisnickiInterfejs.exe.config
+C:\Fakultet\Programski Prevodioci\Evidencija izvrsenih intervencija u stomatoloskoj ordinaciji\KorisnickiInterfejs\KorisnickiInterfejs\KorisnickiInterfejs\bin\Debug\KorisnickiInterfejs.exe
+C:\Fakultet\Programski Prevodioci\Evidencija izvrsenih intervencija u stomatoloskoj ordinaciji\KorisnickiInterfejs\KorisnickiInterfejs\KorisnickiInterfejs\bin\Debug\KorisnickiInterfejs.pdb
+C:\Fakultet\Programski Prevodioci\Evidencija izvrsenih intervencija u stomatoloskoj ordinaciji\KorisnickiInterfejs\KorisnickiInterfejs\KorisnickiInterfejs\bin\Debug\DBUtils.dll
+C:\Fakultet\Programski Prevodioci\Evidencija izvrsenih intervencija u stomatoloskoj ordinaciji\KorisnickiInterfejs\KorisnickiInterfejs\KorisnickiInterfejs\bin\Debug\KlasePodataka.dll
+C:\Fakultet\Programski Prevodioci\Evidencija izvrsenih intervencija u stomatoloskoj ordinaciji\KorisnickiInterfejs\KorisnickiInterfejs\KorisnickiInterfejs\bin\Debug\DBUtils.pdb
+C:\Fakultet\Programski Prevodioci\Evidencija izvrsenih intervencija u stomatoloskoj ordinaciji\KorisnickiInterfejs\KorisnickiInterfejs\KorisnickiInterfejs\bin\Debug\EntityFrameworkKlase.pdb
+C:\Fakultet\Programski Prevodioci\Evidencija izvrsenih intervencija u stomatoloskoj ordinaciji\KorisnickiInterfejs\KorisnickiInterfejs\KorisnickiInterfejs\bin\Debug\EntityFrameworkKlase.dll.config
+C:\Fakultet\Programski Prevodioci\Evidencija izvrsenih intervencija u stomatoloskoj ordinaciji\KorisnickiInterfejs\KorisnickiInterfejs\KorisnickiInterfejs\bin\Debug\KlasePodataka.pdb
+C:\Fakultet\Programski Prevodioci\Evidencija izvrsenih intervencija u stomatoloskoj ordinaciji\KorisnickiInterfejs\KorisnickiInterfejs\KorisnickiInterfejs\bin\Debug\SqlDBUtils.pdb
+C:\Fakultet\Programski Prevodioci\Evidencija izvrsenih intervencija u stomatoloskoj ordinaciji\KorisnickiInterfejs\KorisnickiInterfejs\KorisnickiInterfejs\obj\x86\Debug\KorisnickiInterfejs.csproj.AssemblyReference.cache
+C:\Fakultet\Programski Prevodioci\Evidencija izvrsenih intervencija u stomatoloskoj ordinaciji\KorisnickiInterfejs\KorisnickiInterfejs\KorisnickiInterfejs\obj\x86\Debug\KorisnickiInterfejs.csproj.SuggestedBindingRedirects.cache
+C:\Fakultet\Programski Prevodioci\Evidencija izvrsenih intervencija u stomatoloskoj ordinaciji\KorisnickiInterfejs\KorisnickiInterfejs\KorisnickiInterfejs\obj\x86\Debug\KorisnickiInterfejs.formEvidencijaIzvrsenihIntervencija.resources
+C:\Fakultet\Programski Prevodioci\Evidencija izvrsenih intervencija u stomatoloskoj ordinaciji\KorisnickiInterfejs\KorisnickiInterfejs\KorisnickiInterfejs\obj\x86\Debug\KorisnickiInterfejs.Properties.Resources.resources
+C:\Fakultet\Programski Prevodioci\Evidencija izvrsenih intervencija u stomatoloskoj ordinaciji\KorisnickiInterfejs\KorisnickiInterfejs\KorisnickiInterfejs\obj\x86\Debug\KorisnickiInterfejs.csproj.GenerateResource.cache
+C:\Fakultet\Programski Prevodioci\Evidencija izvrsenih intervencija u stomatoloskoj ordinaciji\KorisnickiInterfejs\KorisnickiInterfejs\KorisnickiInterfejs\obj\x86\Debug\KorisnickiInterfejs.csproj.CoreCompileInputs.cache
+C:\Fakultet\Programski Prevodioci\Evidencija izvrsenih intervencija u stomatoloskoj ordinaciji\KorisnickiInterfejs\KorisnickiInterfejs\KorisnickiInterfejs\obj\x86\Debug\KorisnickiInterfejs.csproj.CopyComplete
+C:\Fakultet\Programski Prevodioci\Evidencija izvrsenih intervencija u stomatoloskoj ordinaciji\KorisnickiInterfejs\KorisnickiInterfejs\KorisnickiInterfejs\obj\x86\Debug\KorisnickiInterfejs.exe
+C:\Fakultet\Programski Prevodioci\Evidencija izvrsenih intervencija u stomatoloskoj ordinaciji\KorisnickiInterfejs\KorisnickiInterfejs\KorisnickiInterfejs\obj\x86\Debug\KorisnickiInterfejs.pdb
+C:\FaksSSD\3 Godina\PP\Evidencija izvrsenih intervencija u stomatoloskoj ordinaciji ISPRAVNO\KorisnickiInterfejs\KorisnickiInterfejs\KorisnickiInterfejs\obj\x86\Debug\KorisnickiInterfejs.csproj.AssemblyReference.cache
+C:\FaksSSD\3 Godina\PP\Evidencija izvrsenih intervencija u stomatoloskoj ordinaciji ISPRAVNO\KorisnickiInterfejs\KorisnickiInterfejs\KorisnickiInterfejs\obj\x86\Debug\KorisnickiInterfejs.csproj.SuggestedBindingRedirects.cache
+C:\FaksSSD\3 Godina\PP\Evidencija izvrsenih intervencija u stomatoloskoj ordinaciji ISPRAVNO\KorisnickiInterfejs\KorisnickiInterfejs\KorisnickiInterfejs\obj\x86\Debug\KorisnickiInterfejs.formEvidencijaIzvrsenihIntervencija.resources
+C:\FaksSSD\3 Godina\PP\Evidencija izvrsenih intervencija u stomatoloskoj ordinaciji ISPRAVNO\KorisnickiInterfejs\KorisnickiInterfejs\KorisnickiInterfejs\obj\x86\Debug\KorisnickiInterfejs.Properties.Resources.resources
+C:\FaksSSD\3 Godina\PP\Evidencija izvrsenih intervencija u stomatoloskoj ordinaciji ISPRAVNO\KorisnickiInterfejs\KorisnickiInterfejs\KorisnickiInterfejs\obj\x86\Debug\KorisnickiInterfejs.csproj.GenerateResource.cache
+C:\FaksSSD\3 Godina\PP\Evidencija izvrsenih intervencija u stomatoloskoj ordinaciji ISPRAVNO\KorisnickiInterfejs\KorisnickiInterfejs\KorisnickiInterfejs\obj\x86\Debug\KorisnickiInterfejs.csproj.CoreCompileInputs.cache
+C:\FaksSSD\3 Godina\PP\Evidencija izvrsenih intervencija u stomatoloskoj ordinaciji ISPRAVNO\KorisnickiInterfejs\KorisnickiInterfejs\KorisnickiInterfejs\obj\x86\Debug\KorisnickiInterfejs.exe
+C:\FaksSSD\3 Godina\PP\Evidencija izvrsenih intervencija u stomatoloskoj ordinaciji ISPRAVNO\KorisnickiInterfejs\KorisnickiInterfejs\KorisnickiInterfejs\obj\x86\Debug\KorisnickiInterfejs.pdb
+C:\FaksSSD\3 Godina\PP\Evidencija izvrsenih intervencija u stomatoloskoj ordinaciji ISPRAVNO\KorisnickiInterfejs\KorisnickiInterfejs\KorisnickiInterfejs\bin\Debug\KorisnickiInterfejs.exe.config
+C:\FaksSSD\3 Godina\PP\Evidencija izvrsenih intervencija u stomatoloskoj ordinaciji ISPRAVNO\KorisnickiInterfejs\KorisnickiInterfejs\KorisnickiInterfejs\bin\Debug\KorisnickiInterfejs.exe
+C:\FaksSSD\3 Godina\PP\Evidencija izvrsenih intervencija u stomatoloskoj ordinaciji ISPRAVNO\KorisnickiInterfejs\KorisnickiInterfejs\KorisnickiInterfejs\bin\Debug\KorisnickiInterfejs.pdb
+C:\FaksSSD\3 Godina\PP\Evidencija izvrsenih intervencija u stomatoloskoj ordinaciji ISPRAVNO\KorisnickiInterfejs\KorisnickiInterfejs\KorisnickiInterfejs\bin\Debug\DBUtils.dll
+C:\FaksSSD\3 Godina\PP\Evidencija izvrsenih intervencija u stomatoloskoj ordinaciji ISPRAVNO\KorisnickiInterfejs\KorisnickiInterfejs\KorisnickiInterfejs\bin\Debug\KlasePodataka.dll
+C:\FaksSSD\3 Godina\PP\Evidencija izvrsenih intervencija u stomatoloskoj ordinaciji ISPRAVNO\KorisnickiInterfejs\KorisnickiInterfejs\KorisnickiInterfejs\bin\Debug\DBUtils.pdb
+C:\FaksSSD\3 Godina\PP\Evidencija izvrsenih intervencija u stomatoloskoj ordinaciji ISPRAVNO\KorisnickiInterfejs\KorisnickiInterfejs\KorisnickiInterfejs\bin\Debug\EntityFrameworkKlase.pdb
+C:\FaksSSD\3 Godina\PP\Evidencija izvrsenih intervencija u stomatoloskoj ordinaciji ISPRAVNO\KorisnickiInterfejs\KorisnickiInterfejs\KorisnickiInterfejs\bin\Debug\EntityFrameworkKlase.dll.config
+C:\FaksSSD\3 Godina\PP\Evidencija izvrsenih intervencija u stomatoloskoj ordinaciji ISPRAVNO\KorisnickiInterfejs\KorisnickiInterfejs\KorisnickiInterfejs\bin\Debug\KlasePodataka.pdb
+C:\FaksSSD\3 Godina\PP\Evidencija izvrsenih intervencija u stomatoloskoj ordinaciji ISPRAVNO\KorisnickiInterfejs\KorisnickiInterfejs\KorisnickiInterfejs\bin\Debug\SqlDBUtils.pdb
+C:\FaksSSD\3 Godina\PP\Evidencija izvrsenih intervencija u stomatoloskoj ordinaciji ISPRAVNO\KorisnickiInterfejs\KorisnickiInterfejs\KorisnickiInterfejs\obj\x86\Debug\KorisnickiInterfejs.csproj.CopyComplete
+E:\EVIDENCIJA STOMATOLOSKE INTERVENCIJE\Evidencija izvrsenih intervencija u stomatoloskoj ordinaciji ISPRAVNO\KorisnickiInterfejs\KorisnickiInterfejs\KorisnickiInterfejs\bin\Debug\KorisnickiInterfejs.exe.config
+E:\EVIDENCIJA STOMATOLOSKE INTERVENCIJE\Evidencija izvrsenih intervencija u stomatoloskoj ordinaciji ISPRAVNO\KorisnickiInterfejs\KorisnickiInterfejs\KorisnickiInterfejs\bin\Debug\KorisnickiInterfejs.exe
+E:\EVIDENCIJA STOMATOLOSKE INTERVENCIJE\Evidencija izvrsenih intervencija u stomatoloskoj ordinaciji ISPRAVNO\KorisnickiInterfejs\KorisnickiInterfejs\KorisnickiInterfejs\bin\Debug\KorisnickiInterfejs.pdb
+E:\EVIDENCIJA STOMATOLOSKE INTERVENCIJE\Evidencija izvrsenih intervencija u stomatoloskoj ordinaciji ISPRAVNO\KorisnickiInterfejs\KorisnickiInterfejs\KorisnickiInterfejs\bin\Debug\DBUtils.dll
+E:\EVIDENCIJA STOMATOLOSKE INTERVENCIJE\Evidencija izvrsenih intervencija u stomatoloskoj ordinaciji ISPRAVNO\KorisnickiInterfejs\KorisnickiInterfejs\KorisnickiInterfejs\bin\Debug\KlasePodataka.dll
+E:\EVIDENCIJA STOMATOLOSKE INTERVENCIJE\Evidencija izvrsenih intervencija u stomatoloskoj ordinaciji ISPRAVNO\KorisnickiInterfejs\KorisnickiInterfejs\KorisnickiInterfejs\bin\Debug\DBUtils.pdb
+E:\EVIDENCIJA STOMATOLOSKE INTERVENCIJE\Evidencija izvrsenih intervencija u stomatoloskoj ordinaciji ISPRAVNO\KorisnickiInterfejs\KorisnickiInterfejs\KorisnickiInterfejs\bin\Debug\EntityFrameworkKlase.pdb
+E:\EVIDENCIJA STOMATOLOSKE INTERVENCIJE\Evidencija izvrsenih intervencija u stomatoloskoj ordinaciji ISPRAVNO\KorisnickiInterfejs\KorisnickiInterfejs\KorisnickiInterfejs\bin\Debug\EntityFrameworkKlase.dll.config
+E:\EVIDENCIJA STOMATOLOSKE INTERVENCIJE\Evidencija izvrsenih intervencija u stomatoloskoj ordinaciji ISPRAVNO\KorisnickiInterfejs\KorisnickiInterfejs\KorisnickiInterfejs\bin\Debug\KlasePodataka.pdb
+E:\EVIDENCIJA STOMATOLOSKE INTERVENCIJE\Evidencija izvrsenih intervencija u stomatoloskoj ordinaciji ISPRAVNO\KorisnickiInterfejs\KorisnickiInterfejs\KorisnickiInterfejs\bin\Debug\SqlDBUtils.pdb
+E:\EVIDENCIJA STOMATOLOSKE INTERVENCIJE\Evidencija izvrsenih intervencija u stomatoloskoj ordinaciji ISPRAVNO\KorisnickiInterfejs\KorisnickiInterfejs\KorisnickiInterfejs\obj\x86\Debug\KorisnickiInterfejs.csproj.AssemblyReference.cache
+E:\EVIDENCIJA STOMATOLOSKE INTERVENCIJE\Evidencija izvrsenih intervencija u stomatoloskoj ordinaciji ISPRAVNO\KorisnickiInterfejs\KorisnickiInterfejs\KorisnickiInterfejs\obj\x86\Debug\KorisnickiInterfejs.csproj.SuggestedBindingRedirects.cache
+E:\EVIDENCIJA STOMATOLOSKE INTERVENCIJE\Evidencija izvrsenih intervencija u stomatoloskoj ordinaciji ISPRAVNO\KorisnickiInterfejs\KorisnickiInterfejs\KorisnickiInterfejs\obj\x86\Debug\KorisnickiInterfejs.formEvidencijaIzvrsenihIntervencija.resources
+E:\EVIDENCIJA STOMATOLOSKE INTERVENCIJE\Evidencija izvrsenih intervencija u stomatoloskoj ordinaciji ISPRAVNO\KorisnickiInterfejs\KorisnickiInterfejs\KorisnickiInterfejs\obj\x86\Debug\KorisnickiInterfejs.Properties.Resources.resources
+E:\EVIDENCIJA STOMATOLOSKE INTERVENCIJE\Evidencija izvrsenih intervencija u stomatoloskoj ordinaciji ISPRAVNO\KorisnickiInterfejs\KorisnickiInterfejs\KorisnickiInterfejs\obj\x86\Debug\KorisnickiInterfejs.csproj.GenerateResource.cache
+E:\EVIDENCIJA STOMATOLOSKE INTERVENCIJE\Evidencija izvrsenih intervencija u stomatoloskoj ordinaciji ISPRAVNO\KorisnickiInterfejs\KorisnickiInterfejs\KorisnickiInterfejs\obj\x86\Debug\KorisnickiInterfejs.csproj.CoreCompileInputs.cache
+E:\EVIDENCIJA STOMATOLOSKE INTERVENCIJE\Evidencija izvrsenih intervencija u stomatoloskoj ordinaciji ISPRAVNO\KorisnickiInterfejs\KorisnickiInterfejs\KorisnickiInterfejs\obj\x86\Debug\KorisnickiInterfejs.csproj.CopyComplete
+E:\EVIDENCIJA STOMATOLOSKE INTERVENCIJE\Evidencija izvrsenih intervencija u stomatoloskoj ordinaciji ISPRAVNO\KorisnickiInterfejs\KorisnickiInterfejs\KorisnickiInterfejs\obj\x86\Debug\KorisnickiInterfejs.exe
+E:\EVIDENCIJA STOMATOLOSKE INTERVENCIJE\Evidencija izvrsenih intervencija u stomatoloskoj ordinaciji ISPRAVNO\KorisnickiInterfejs\KorisnickiInterfejs\KorisnickiInterfejs\obj\x86\Debug\KorisnickiInterfejs.pdb
+C:\FaksSSD\4 Godina\EVIDENCIJA STOMATOLOSKE INTERVENCIJE\Evidencija izvrsenih intervencija u stomatoloskoj ordinaciji ISPRAVNO\KorisnickiInterfejs\KorisnickiInterfejs\KorisnickiInterfejs\obj\x86\Debug\KorisnickiInterfejs.csproj.AssemblyReference.cache
+C:\FaksSSD\4 Godina\EVIDENCIJA STOMATOLOSKE INTERVENCIJE\Evidencija izvrsenih intervencija u stomatoloskoj ordinaciji ISPRAVNO\KorisnickiInterfejs\KorisnickiInterfejs\KorisnickiInterfejs\obj\x86\Debug\KorisnickiInterfejs.csproj.SuggestedBindingRedirects.cache
+C:\FaksSSD\4 Godina\EVIDENCIJA STOMATOLOSKE INTERVENCIJE\Evidencija izvrsenih intervencija u stomatoloskoj ordinaciji ISPRAVNO\KorisnickiInterfejs\KorisnickiInterfejs\KorisnickiInterfejs\obj\x86\Debug\KorisnickiInterfejs.exe
+C:\FaksSSD\4 Godina\EVIDENCIJA STOMATOLOSKE INTERVENCIJE\Evidencija izvrsenih intervencija u stomatoloskoj ordinaciji ISPRAVNO\KorisnickiInterfejs\KorisnickiInterfejs\KorisnickiInterfejs\obj\x86\Debug\KorisnickiInterfejs.pdb
+C:\FaksSSD\4 Godina\EVIDENCIJA STOMATOLOSKE INTERVENCIJE\EIIUSO\KorisnickiInterfejs\KorisnickiInterfejs\KorisnickiInterfejs\bin\Debug\KorisnickiInterfejs.exe.config
+C:\FaksSSD\4 Godina\EVIDENCIJA STOMATOLOSKE INTERVENCIJE\EIIUSO\KorisnickiInterfejs\KorisnickiInterfejs\KorisnickiInterfejs\bin\Debug\KorisnickiInterfejs.exe
+C:\FaksSSD\4 Godina\EVIDENCIJA STOMATOLOSKE INTERVENCIJE\EIIUSO\KorisnickiInterfejs\KorisnickiInterfejs\KorisnickiInterfejs\bin\Debug\KorisnickiInterfejs.pdb
+C:\FaksSSD\4 Godina\EVIDENCIJA STOMATOLOSKE INTERVENCIJE\EIIUSO\KorisnickiInterfejs\KorisnickiInterfejs\KorisnickiInterfejs\bin\Debug\DBUtils.dll
+C:\FaksSSD\4 Godina\EVIDENCIJA STOMATOLOSKE INTERVENCIJE\EIIUSO\KorisnickiInterfejs\KorisnickiInterfejs\KorisnickiInterfejs\bin\Debug\KlasePodataka.dll
+C:\FaksSSD\4 Godina\EVIDENCIJA STOMATOLOSKE INTERVENCIJE\EIIUSO\KorisnickiInterfejs\KorisnickiInterfejs\KorisnickiInterfejs\bin\Debug\DBUtils.pdb
+C:\FaksSSD\4 Godina\EVIDENCIJA STOMATOLOSKE INTERVENCIJE\EIIUSO\KorisnickiInterfejs\KorisnickiInterfejs\KorisnickiInterfejs\bin\Debug\EntityFrameworkKlase.pdb
+C:\FaksSSD\4 Godina\EVIDENCIJA STOMATOLOSKE INTERVENCIJE\EIIUSO\KorisnickiInterfejs\KorisnickiInterfejs\KorisnickiInterfejs\bin\Debug\EntityFrameworkKlase.dll.config
+C:\FaksSSD\4 Godina\EVIDENCIJA STOMATOLOSKE INTERVENCIJE\EIIUSO\KorisnickiInterfejs\KorisnickiInterfejs\KorisnickiInterfejs\bin\Debug\KlasePodataka.pdb
+C:\FaksSSD\4 Godina\EVIDENCIJA STOMATOLOSKE INTERVENCIJE\EIIUSO\KorisnickiInterfejs\KorisnickiInterfejs\KorisnickiInterfejs\bin\Debug\SqlDBUtils.pdb
+C:\FaksSSD\4 Godina\EVIDENCIJA STOMATOLOSKE INTERVENCIJE\EIIUSO\KorisnickiInterfejs\KorisnickiInterfejs\KorisnickiInterfejs\obj\x86\Debug\KorisnickiInterfejs.csproj.AssemblyReference.cache
+C:\FaksSSD\4 Godina\EVIDENCIJA STOMATOLOSKE INTERVENCIJE\EIIUSO\KorisnickiInterfejs\KorisnickiInterfejs\KorisnickiInterfejs\obj\x86\Debug\KorisnickiInterfejs.csproj.SuggestedBindingRedirects.cache
+C:\FaksSSD\4 Godina\EVIDENCIJA STOMATOLOSKE INTERVENCIJE\EIIUSO\KorisnickiInterfejs\KorisnickiInterfejs\KorisnickiInterfejs\obj\x86\Debug\KorisnickiInterfejs.formEvidencijaIzvrsenihIntervencija.resources
+C:\FaksSSD\4 Godina\EVIDENCIJA STOMATOLOSKE INTERVENCIJE\EIIUSO\KorisnickiInterfejs\KorisnickiInterfejs\KorisnickiInterfejs\obj\x86\Debug\KorisnickiInterfejs.Properties.Resources.resources
+C:\FaksSSD\4 Godina\EVIDENCIJA STOMATOLOSKE INTERVENCIJE\EIIUSO\KorisnickiInterfejs\KorisnickiInterfejs\KorisnickiInterfejs\obj\x86\Debug\KorisnickiInterfejs.csproj.GenerateResource.cache
+C:\FaksSSD\4 Godina\EVIDENCIJA STOMATOLOSKE INTERVENCIJE\EIIUSO\KorisnickiInterfejs\KorisnickiInterfejs\KorisnickiInterfejs\obj\x86\Debug\KorisnickiInterfejs.csproj.CoreCompileInputs.cache
+C:\FaksSSD\4 Godina\EVIDENCIJA STOMATOLOSKE INTERVENCIJE\EIIUSO\KorisnickiInterfejs\KorisnickiInterfejs\KorisnickiInterfejs\obj\x86\Debug\KorisnickiInterfejs.csproj.CopyComplete
+C:\FaksSSD\4 Godina\EVIDENCIJA STOMATOLOSKE INTERVENCIJE\EIIUSO\KorisnickiInterfejs\KorisnickiInterfejs\KorisnickiInterfejs\obj\x86\Debug\KorisnickiInterfejs.exe
+C:\FaksSSD\4 Godina\EVIDENCIJA STOMATOLOSKE INTERVENCIJE\EIIUSO\KorisnickiInterfejs\KorisnickiInterfejs\KorisnickiInterfejs\obj\x86\Debug\KorisnickiInterfejs.pdb
+C:\Fakultet\Razvoj Softvera Otvorenog Koda\EIIUSO\KorisnickiInterfejs\KorisnickiInterfejs\KorisnickiInterfejs\bin\Debug\KorisnickiInterfejs.exe.config
+C:\Fakultet\Razvoj Softvera Otvorenog Koda\EIIUSO\KorisnickiInterfejs\KorisnickiInterfejs\KorisnickiInterfejs\bin\Debug\KorisnickiInterfejs.exe
+C:\Fakultet\Razvoj Softvera Otvorenog Koda\EIIUSO\KorisnickiInterfejs\KorisnickiInterfejs\KorisnickiInterfejs\bin\Debug\KorisnickiInterfejs.pdb
+C:\Fakultet\Razvoj Softvera Otvorenog Koda\EIIUSO\KorisnickiInterfejs\KorisnickiInterfejs\KorisnickiInterfejs\bin\Debug\DBUtils.dll
+C:\Fakultet\Razvoj Softvera Otvorenog Koda\EIIUSO\KorisnickiInterfejs\KorisnickiInterfejs\KorisnickiInterfejs\bin\Debug\KlasePodataka.dll
+C:\Fakultet\Razvoj Softvera Otvorenog Koda\EIIUSO\KorisnickiInterfejs\KorisnickiInterfejs\KorisnickiInterfejs\bin\Debug\DBUtils.pdb
+C:\Fakultet\Razvoj Softvera Otvorenog Koda\EIIUSO\KorisnickiInterfejs\KorisnickiInterfejs\KorisnickiInterfejs\bin\Debug\EntityFrameworkKlase.pdb
+C:\Fakultet\Razvoj Softvera Otvorenog Koda\EIIUSO\KorisnickiInterfejs\KorisnickiInterfejs\KorisnickiInterfejs\bin\Debug\EntityFrameworkKlase.dll.config
+C:\Fakultet\Razvoj Softvera Otvorenog Koda\EIIUSO\KorisnickiInterfejs\KorisnickiInterfejs\KorisnickiInterfejs\bin\Debug\KlasePodataka.pdb
+C:\Fakultet\Razvoj Softvera Otvorenog Koda\EIIUSO\KorisnickiInterfejs\KorisnickiInterfejs\KorisnickiInterfejs\bin\Debug\SqlDBUtils.pdb
+C:\Fakultet\Razvoj Softvera Otvorenog Koda\EIIUSO\KorisnickiInterfejs\KorisnickiInterfejs\KorisnickiInterfejs\obj\x86\Debug\KorisnickiInterfejs.csproj.AssemblyReference.cache
+C:\Fakultet\Razvoj Softvera Otvorenog Koda\EIIUSO\KorisnickiInterfejs\KorisnickiInterfejs\KorisnickiInterfejs\obj\x86\Debug\KorisnickiInterfejs.csproj.SuggestedBindingRedirects.cache
+C:\Fakultet\Razvoj Softvera Otvorenog Koda\EIIUSO\KorisnickiInterfejs\KorisnickiInterfejs\KorisnickiInterfejs\obj\x86\Debug\KorisnickiInterfejs.formEvidencijaIzvrsenihIntervencija.resources
+C:\Fakultet\Razvoj Softvera Otvorenog Koda\EIIUSO\KorisnickiInterfejs\KorisnickiInterfejs\KorisnickiInterfejs\obj\x86\Debug\KorisnickiInterfejs.Properties.Resources.resources
+C:\Fakultet\Razvoj Softvera Otvorenog Koda\EIIUSO\KorisnickiInterfejs\KorisnickiInterfejs\KorisnickiInterfejs\obj\x86\Debug\KorisnickiInterfejs.csproj.GenerateResource.cache
+C:\Fakultet\Razvoj Softvera Otvorenog Koda\EIIUSO\KorisnickiInterfejs\KorisnickiInterfejs\KorisnickiInterfejs\obj\x86\Debug\KorisnickiInterfejs.csproj.CoreCompileInputs.cache
+C:\Fakultet\Razvoj Softvera Otvorenog Koda\EIIUSO\KorisnickiInterfejs\KorisnickiInterfejs\KorisnickiInterfejs\obj\x86\Debug\KorisnickiInterfejs.csproj.CopyComplete
+C:\Fakultet\Razvoj Softvera Otvorenog Koda\EIIUSO\KorisnickiInterfejs\KorisnickiInterfejs\KorisnickiInterfejs\obj\x86\Debug\KorisnickiInterfejs.exe
+C:\Fakultet\Razvoj Softvera Otvorenog Koda\EIIUSO\KorisnickiInterfejs\KorisnickiInterfejs\KorisnickiInterfejs\obj\x86\Debug\KorisnickiInterfejs.pdb
+C:\Fakultet\DIPLOMSKI RAD\EIIUSO\KorisnickiInterfejs\KorisnickiInterfejs\KorisnickiInterfejs\bin\Debug\KorisnickiInterfejs.exe.config
+C:\Fakultet\DIPLOMSKI RAD\EIIUSO\KorisnickiInterfejs\KorisnickiInterfejs\KorisnickiInterfejs\bin\Debug\KorisnickiInterfejs.exe
+C:\Fakultet\DIPLOMSKI RAD\EIIUSO\KorisnickiInterfejs\KorisnickiInterfejs\KorisnickiInterfejs\bin\Debug\KorisnickiInterfejs.pdb
+C:\Fakultet\DIPLOMSKI RAD\EIIUSO\KorisnickiInterfejs\KorisnickiInterfejs\KorisnickiInterfejs\bin\Debug\DBUtils.dll
+C:\Fakultet\DIPLOMSKI RAD\EIIUSO\KorisnickiInterfejs\KorisnickiInterfejs\KorisnickiInterfejs\bin\Debug\KlasePodataka.dll
+C:\Fakultet\DIPLOMSKI RAD\EIIUSO\KorisnickiInterfejs\KorisnickiInterfejs\KorisnickiInterfejs\bin\Debug\DBUtils.pdb
+C:\Fakultet\DIPLOMSKI RAD\EIIUSO\KorisnickiInterfejs\KorisnickiInterfejs\KorisnickiInterfejs\bin\Debug\EntityFrameworkKlase.pdb
+C:\Fakultet\DIPLOMSKI RAD\EIIUSO\KorisnickiInterfejs\KorisnickiInterfejs\KorisnickiInterfejs\bin\Debug\EntityFrameworkKlase.dll.config
+C:\Fakultet\DIPLOMSKI RAD\EIIUSO\KorisnickiInterfejs\KorisnickiInterfejs\KorisnickiInterfejs\bin\Debug\KlasePodataka.pdb
+C:\Fakultet\DIPLOMSKI RAD\EIIUSO\KorisnickiInterfejs\KorisnickiInterfejs\KorisnickiInterfejs\bin\Debug\SqlDBUtils.pdb
+C:\Fakultet\DIPLOMSKI RAD\EIIUSO\KorisnickiInterfejs\KorisnickiInterfejs\KorisnickiInterfejs\obj\x86\Debug\KorisnickiInterfejs.csproj.AssemblyReference.cache
+C:\Fakultet\DIPLOMSKI RAD\EIIUSO\KorisnickiInterfejs\KorisnickiInterfejs\KorisnickiInterfejs\obj\x86\Debug\KorisnickiInterfejs.formEvidencijaIzvrsenihIntervencija.resources
+C:\Fakultet\DIPLOMSKI RAD\EIIUSO\KorisnickiInterfejs\KorisnickiInterfejs\KorisnickiInterfejs\obj\x86\Debug\KorisnickiInterfejs.Properties.Resources.resources
+C:\Fakultet\DIPLOMSKI RAD\EIIUSO\KorisnickiInterfejs\KorisnickiInterfejs\KorisnickiInterfejs\obj\x86\Debug\KorisnickiInterfejs.csproj.GenerateResource.cache
+C:\Fakultet\DIPLOMSKI RAD\EIIUSO\KorisnickiInterfejs\KorisnickiInterfejs\KorisnickiInterfejs\obj\x86\Debug\KorisnickiInterfejs.csproj.CoreCompileInputs.cache
+C:\Fakultet\DIPLOMSKI RAD\EIIUSO\KorisnickiInterfejs\KorisnickiInterfejs\KorisnickiInterfejs\obj\x86\Debug\KorisnickiInterfejs.csproj.CopyComplete
+C:\Fakultet\DIPLOMSKI RAD\EIIUSO\KorisnickiInterfejs\KorisnickiInterfejs\KorisnickiInterfejs\obj\x86\Debug\KorisnickiInterfejs.exe
+C:\Fakultet\DIPLOMSKI RAD\EIIUSO\KorisnickiInterfejs\KorisnickiInterfejs\KorisnickiInterfejs\obj\x86\Debug\KorisnickiInterfejs.pdb

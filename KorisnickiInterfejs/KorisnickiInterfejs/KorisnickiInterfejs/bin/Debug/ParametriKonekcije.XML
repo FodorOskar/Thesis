@@ -1,0 +1,8 @@
+<?xml version="1.0" standalone="yes"?>
+<ParametriKonekcije>
+  <Konekcija>
+    <putanjabaze></putanjabaze>
+    <nazivbaze>stomatoloska_ordinacija</nazivbaze>
+    <DBMSinstanca>DESKTOP-5DRSHG3</DBMSinstanca>
+  </Konekcija>
+</ParametriKonekcije>

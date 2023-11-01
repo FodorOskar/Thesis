@@ -1,0 +1,104 @@
+C:\Users\student\Documents\Visual Studio 2010\Projects\se2 cas 7 grupa 2\1_SlojPodataka\KlasePodataka\KlasePodataka\KlasePodataka\bin\Debug\KlasePodataka.dll
+C:\Users\student\Documents\Visual Studio 2010\Projects\se2 cas 7 grupa 2\1_SlojPodataka\KlasePodataka\KlasePodataka\KlasePodataka\bin\Debug\KlasePodataka.pdb
+C:\Users\student\Documents\Visual Studio 2010\Projects\se2 cas 7 grupa 2\1_SlojPodataka\KlasePodataka\KlasePodataka\KlasePodataka\obj\Debug\KlasePodataka.dll
+C:\Users\student\Documents\Visual Studio 2010\Projects\se2 cas 7 grupa 2\1_SlojPodataka\KlasePodataka\KlasePodataka\KlasePodataka\obj\Debug\KlasePodataka.pdb
+c:\Users\student\Documents\Visual Studio 2010\Projects\Se2 cas 10 grupa 2\1_SlojPodataka\KlasePodataka\KlasePodataka\KlasePodataka\bin\Debug\KlasePodataka.dll
+c:\Users\student\Documents\Visual Studio 2010\Projects\Se2 cas 10 grupa 2\1_SlojPodataka\KlasePodataka\KlasePodataka\KlasePodataka\bin\Debug\KlasePodataka.pdb
+c:\Users\student\Documents\Visual Studio 2010\Projects\Se2 cas 10 grupa 2\1_SlojPodataka\KlasePodataka\KlasePodataka\KlasePodataka\obj\Debug\KlasePodataka.dll
+c:\Users\student\Documents\Visual Studio 2010\Projects\Se2 cas 10 grupa 2\1_SlojPodataka\KlasePodataka\KlasePodataka\KlasePodataka\obj\Debug\KlasePodataka.pdb
+C:\Users\student\Documents\Visual Studio 2010\Projects\SE2 cas 11 grupa 2\1_SlojPodataka\KlasePodataka\KlasePodataka\KlasePodataka\bin\Debug\KlasePodataka.dll
+C:\Users\student\Documents\Visual Studio 2010\Projects\SE2 cas 11 grupa 2\1_SlojPodataka\KlasePodataka\KlasePodataka\KlasePodataka\bin\Debug\KlasePodataka.pdb
+C:\Users\student\Documents\Visual Studio 2010\Projects\SE2 cas 11 grupa 2\1_SlojPodataka\KlasePodataka\KlasePodataka\KlasePodataka\obj\Debug\KlasePodataka.dll
+C:\Users\student\Documents\Visual Studio 2010\Projects\SE2 cas 11 grupa 2\1_SlojPodataka\KlasePodataka\KlasePodataka\KlasePodataka\obj\Debug\KlasePodataka.pdb
+c:\Users\student\Documents\Visual Studio 2010\Projects\SE2 cas 12 grupa 1\DALJE\1_SlojPodataka\KlasePodataka\KlasePodataka\KlasePodataka\bin\Debug\KlasePodataka.dll
+c:\Users\student\Documents\Visual Studio 2010\Projects\SE2 cas 12 grupa 1\DALJE\1_SlojPodataka\KlasePodataka\KlasePodataka\KlasePodataka\bin\Debug\KlasePodataka.pdb
+c:\Users\student\Documents\Visual Studio 2010\Projects\SE2 cas 12 grupa 1\DALJE\1_SlojPodataka\KlasePodataka\KlasePodataka\KlasePodataka\obj\Debug\KlasePodataka.dll
+c:\Users\student\Documents\Visual Studio 2010\Projects\SE2 cas 12 grupa 1\DALJE\1_SlojPodataka\KlasePodataka\KlasePodataka\KlasePodataka\obj\Debug\KlasePodataka.pdb
+C:\Users\student\Documents\Visual Studio 2010\Projects\SE2 cas 13\1_SlojPodataka\KlasePodataka\KlasePodataka\KlasePodataka\bin\Debug\KlasePodataka.dll
+C:\Users\student\Documents\Visual Studio 2010\Projects\SE2 cas 13\1_SlojPodataka\KlasePodataka\KlasePodataka\KlasePodataka\bin\Debug\KlasePodataka.pdb
+C:\Users\student\Documents\Visual Studio 2010\Projects\SE2 cas 13\1_SlojPodataka\KlasePodataka\KlasePodataka\KlasePodataka\obj\Debug\KlasePodataka.dll
+C:\Users\student\Documents\Visual Studio 2010\Projects\SE2 cas 13\1_SlojPodataka\KlasePodataka\KlasePodataka\KlasePodataka\obj\Debug\KlasePodataka.pdb
+c:\LJUBICA\AAA_GUC\0001 ZIMSKI SEMESTAR\000 AAA aaa Skripta PREDAVANJA\09 CAS\TEMPLATE Net KOLOKVIJUM\KlasePodataka\KlasePodataka\KlasePodataka\obj\Debug\KlasePodataka.dll
+c:\LJUBICA\AAA_GUC\0001 ZIMSKI SEMESTAR\000 AAA aaa Skripta PREDAVANJA\09 CAS\TEMPLATE Net KOLOKVIJUM\KlasePodataka\KlasePodataka\KlasePodataka\obj\Debug\KlasePodataka.pdb
+c:\LJUBICA\AAA_GUC\0001 ZIMSKI SEMESTAR\000 AAA aaa Skripta PREDAVANJA\09 CAS\TEMPLATE Net KOLOKVIJUM\KlasePodataka\KlasePodataka\KlasePodataka\obj\Debug\KlasePodataka.csprojResolveAssemblyReference.cache
+c:\LJUBICA\AAA_GUC\0001 ZIMSKI SEMESTAR\000 AAA aaa Skripta PREDAVANJA\09 CAS\TEMPLATE Net KOLOKVIJUM\KlasePodataka\KlasePodataka\KlasePodataka\bin\Debug\KlasePodataka.dll
+c:\LJUBICA\AAA_GUC\0001 ZIMSKI SEMESTAR\000 AAA aaa Skripta PREDAVANJA\09 CAS\TEMPLATE Net KOLOKVIJUM\KlasePodataka\KlasePodataka\KlasePodataka\bin\Debug\KlasePodataka.pdb
+c:\LJUBICA\AAA_GUC\0001 ZIMSKI SEMESTAR\000 AAA aaa Skripta PREDAVANJA\09 CAS\TEMPLATE Net KOLOKVIJUM\KlasePodataka\KlasePodataka\KlasePodataka\bin\Debug\DBUtils.dll
+c:\LJUBICA\AAA_GUC\0001 ZIMSKI SEMESTAR\000 AAA aaa Skripta PREDAVANJA\09 CAS\TEMPLATE Net KOLOKVIJUM\KlasePodataka\KlasePodataka\KlasePodataka\bin\Debug\DBUtils.pdb
+c:\LJUBICA\AAA_GUC\0001 ZIMSKI SEMESTAR\000 AAA aaa Skripta PREDAVANJA\09 CAS\TEMPLATE Net KOLOKVIJUM\03 Klase podataka\KlasePodataka\KlasePodataka\obj\Debug\KlasePodataka.csprojResolveAssemblyReference.cache
+c:\LJUBICA\AAA_GUC\0001 ZIMSKI SEMESTAR\000 AAA aaa Skripta PREDAVANJA\09 CAS\TEMPLATE Net KOLOKVIJUM\03 Klase podataka\KlasePodataka\KlasePodataka\obj\Debug\KlasePodataka.dll
+c:\LJUBICA\AAA_GUC\0001 ZIMSKI SEMESTAR\000 AAA aaa Skripta PREDAVANJA\09 CAS\TEMPLATE Net KOLOKVIJUM\03 Klase podataka\KlasePodataka\KlasePodataka\bin\Debug\KlasePodataka.dll
+c:\LJUBICA\AAA_GUC\0001 ZIMSKI SEMESTAR\000 AAA aaa Skripta PREDAVANJA\09 CAS\TEMPLATE Net KOLOKVIJUM\03 Klase podataka\KlasePodataka\KlasePodataka\bin\Debug\KlasePodataka.pdb
+c:\LJUBICA\AAA_GUC\0001 ZIMSKI SEMESTAR\000 AAA aaa Skripta PREDAVANJA\09 CAS\TEMPLATE Net KOLOKVIJUM\03 Klase podataka\KlasePodataka\KlasePodataka\bin\Debug\DBUtils.dll
+c:\LJUBICA\AAA_GUC\0001 ZIMSKI SEMESTAR\000 AAA aaa Skripta PREDAVANJA\09 CAS\TEMPLATE Net KOLOKVIJUM\03 Klase podataka\KlasePodataka\KlasePodataka\bin\Debug\DBUtils.pdb
+c:\LJUBICA\AAA_GUC\0001 ZIMSKI SEMESTAR\000 AAA aaa Skripta PREDAVANJA\09 CAS\TEMPLATE Net KOLOKVIJUM\03 Klase podataka\KlasePodataka\KlasePodataka\obj\Debug\KlasePodataka.pdb
+C:\LJUBICA\AAA_GUC\0002 LETNJI SEMESTAR\aa OSNOVNE programski prevodioci\02 VEZBE\03 cas vezbe\02 zadatak\Za zadatak\03 Klase podataka\KlasePodataka\KlasePodataka\bin\Debug\KlasePodataka.dll
+C:\LJUBICA\AAA_GUC\0002 LETNJI SEMESTAR\aa OSNOVNE programski prevodioci\02 VEZBE\03 cas vezbe\02 zadatak\Za zadatak\03 Klase podataka\KlasePodataka\KlasePodataka\bin\Debug\KlasePodataka.pdb
+C:\LJUBICA\AAA_GUC\0002 LETNJI SEMESTAR\aa OSNOVNE programski prevodioci\02 VEZBE\03 cas vezbe\02 zadatak\Za zadatak\03 Klase podataka\KlasePodataka\KlasePodataka\bin\Debug\DBUtils.dll
+C:\LJUBICA\AAA_GUC\0002 LETNJI SEMESTAR\aa OSNOVNE programski prevodioci\02 VEZBE\03 cas vezbe\02 zadatak\Za zadatak\03 Klase podataka\KlasePodataka\KlasePodataka\bin\Debug\DBUtils.pdb
+C:\LJUBICA\AAA_GUC\0002 LETNJI SEMESTAR\aa OSNOVNE programski prevodioci\02 VEZBE\03 cas vezbe\02 zadatak\Za zadatak\03 Klase podataka\KlasePodataka\KlasePodataka\obj\Debug\KlasePodataka.csproj.AssemblyReference.cache
+C:\LJUBICA\AAA_GUC\0002 LETNJI SEMESTAR\aa OSNOVNE programski prevodioci\02 VEZBE\03 cas vezbe\02 zadatak\Za zadatak\03 Klase podataka\KlasePodataka\KlasePodataka\obj\Debug\KlasePodataka.csproj.CoreCompileInputs.cache
+C:\LJUBICA\AAA_GUC\0002 LETNJI SEMESTAR\aa OSNOVNE programski prevodioci\02 VEZBE\03 cas vezbe\02 zadatak\Za zadatak\03 Klase podataka\KlasePodataka\KlasePodataka\obj\Debug\KlasePodataka.csproj.CopyComplete
+C:\LJUBICA\AAA_GUC\0002 LETNJI SEMESTAR\aa OSNOVNE programski prevodioci\02 VEZBE\03 cas vezbe\02 zadatak\Za zadatak\03 Klase podataka\KlasePodataka\KlasePodataka\obj\Debug\KlasePodataka.dll
+C:\LJUBICA\AAA_GUC\0002 LETNJI SEMESTAR\aa OSNOVNE programski prevodioci\02 VEZBE\03 cas vezbe\02 zadatak\Za zadatak\03 Klase podataka\KlasePodataka\KlasePodataka\obj\Debug\KlasePodataka.pdb
+C:\LJUBICA\AAA_GUC\0002 LETNJI SEMESTAR\aa OSNOVNE programski prevodioci\02 VEZBE\03 cas vezbe\RESENJE 2 ZADATKA\03 Klase podataka\KlasePodataka\KlasePodataka\bin\Debug\KlasePodataka.dll
+C:\LJUBICA\AAA_GUC\0002 LETNJI SEMESTAR\aa OSNOVNE programski prevodioci\02 VEZBE\03 cas vezbe\RESENJE 2 ZADATKA\03 Klase podataka\KlasePodataka\KlasePodataka\bin\Debug\KlasePodataka.pdb
+C:\LJUBICA\AAA_GUC\0002 LETNJI SEMESTAR\aa OSNOVNE programski prevodioci\02 VEZBE\03 cas vezbe\RESENJE 2 ZADATKA\03 Klase podataka\KlasePodataka\KlasePodataka\bin\Debug\DBUtils.dll
+C:\LJUBICA\AAA_GUC\0002 LETNJI SEMESTAR\aa OSNOVNE programski prevodioci\02 VEZBE\03 cas vezbe\RESENJE 2 ZADATKA\03 Klase podataka\KlasePodataka\KlasePodataka\bin\Debug\DBUtils.pdb
+C:\LJUBICA\AAA_GUC\0002 LETNJI SEMESTAR\aa OSNOVNE programski prevodioci\02 VEZBE\03 cas vezbe\RESENJE 2 ZADATKA\03 Klase podataka\KlasePodataka\KlasePodataka\obj\Debug\KlasePodataka.csproj.AssemblyReference.cache
+C:\LJUBICA\AAA_GUC\0002 LETNJI SEMESTAR\aa OSNOVNE programski prevodioci\02 VEZBE\03 cas vezbe\RESENJE 2 ZADATKA\03 Klase podataka\KlasePodataka\KlasePodataka\obj\Debug\KlasePodataka.csproj.CoreCompileInputs.cache
+C:\LJUBICA\AAA_GUC\0002 LETNJI SEMESTAR\aa OSNOVNE programski prevodioci\02 VEZBE\03 cas vezbe\RESENJE 2 ZADATKA\03 Klase podataka\KlasePodataka\KlasePodataka\obj\Debug\KlasePodataka.csproj.CopyComplete
+C:\LJUBICA\AAA_GUC\0002 LETNJI SEMESTAR\aa OSNOVNE programski prevodioci\02 VEZBE\03 cas vezbe\RESENJE 2 ZADATKA\03 Klase podataka\KlasePodataka\KlasePodataka\obj\Debug\KlasePodataka.dll
+C:\LJUBICA\AAA_GUC\0002 LETNJI SEMESTAR\aa OSNOVNE programski prevodioci\02 VEZBE\03 cas vezbe\RESENJE 2 ZADATKA\03 Klase podataka\KlasePodataka\KlasePodataka\obj\Debug\KlasePodataka.pdb
+c:\LJUBICA\AAA_GUC\0002 LETNJI SEMESTAR\aa OSNOVNE programski prevodioci\02 VEZBE\04 cas vezbe\Projekat04cas\03 Klase podataka\KlasePodataka\KlasePodataka\bin\Debug\KlasePodataka.dll
+c:\LJUBICA\AAA_GUC\0002 LETNJI SEMESTAR\aa OSNOVNE programski prevodioci\02 VEZBE\04 cas vezbe\Projekat04cas\03 Klase podataka\KlasePodataka\KlasePodataka\bin\Debug\KlasePodataka.pdb
+c:\LJUBICA\AAA_GUC\0002 LETNJI SEMESTAR\aa OSNOVNE programski prevodioci\02 VEZBE\04 cas vezbe\Projekat04cas\03 Klase podataka\KlasePodataka\KlasePodataka\bin\Debug\DBUtils.dll
+c:\LJUBICA\AAA_GUC\0002 LETNJI SEMESTAR\aa OSNOVNE programski prevodioci\02 VEZBE\04 cas vezbe\Projekat04cas\03 Klase podataka\KlasePodataka\KlasePodataka\bin\Debug\DBUtils.pdb
+c:\LJUBICA\AAA_GUC\0002 LETNJI SEMESTAR\aa OSNOVNE programski prevodioci\02 VEZBE\04 cas vezbe\Projekat04cas\03 Klase podataka\KlasePodataka\KlasePodataka\obj\Debug\KlasePodataka.csprojResolveAssemblyReference.cache
+c:\LJUBICA\AAA_GUC\0002 LETNJI SEMESTAR\aa OSNOVNE programski prevodioci\02 VEZBE\04 cas vezbe\Projekat04cas\03 Klase podataka\KlasePodataka\KlasePodataka\obj\Debug\KlasePodataka.dll
+c:\LJUBICA\AAA_GUC\0002 LETNJI SEMESTAR\aa OSNOVNE programski prevodioci\02 VEZBE\04 cas vezbe\Projekat04cas\03 Klase podataka\KlasePodataka\KlasePodataka\obj\Debug\KlasePodataka.pdb
+C:\FaksSSD\3 Godina\PP\Evidencija izvrsenih intervencija u stomatoloskoj ordinaciji\03 Klase podataka\KlasePodataka\KlasePodataka\bin\Debug\KlasePodataka.dll
+C:\FaksSSD\3 Godina\PP\Evidencija izvrsenih intervencija u stomatoloskoj ordinaciji\03 Klase podataka\KlasePodataka\KlasePodataka\bin\Debug\KlasePodataka.pdb
+C:\FaksSSD\3 Godina\PP\Evidencija izvrsenih intervencija u stomatoloskoj ordinaciji\03 Klase podataka\KlasePodataka\KlasePodataka\bin\Debug\DBUtils.dll
+C:\FaksSSD\3 Godina\PP\Evidencija izvrsenih intervencija u stomatoloskoj ordinaciji\03 Klase podataka\KlasePodataka\KlasePodataka\bin\Debug\DBUtils.pdb
+C:\FaksSSD\3 Godina\PP\Evidencija izvrsenih intervencija u stomatoloskoj ordinaciji\03 Klase podataka\KlasePodataka\KlasePodataka\obj\Debug\KlasePodataka.csproj.AssemblyReference.cache
+C:\FaksSSD\3 Godina\PP\Evidencija izvrsenih intervencija u stomatoloskoj ordinaciji\03 Klase podataka\KlasePodataka\KlasePodataka\obj\Debug\KlasePodataka.csproj.CoreCompileInputs.cache
+C:\FaksSSD\3 Godina\PP\Evidencija izvrsenih intervencija u stomatoloskoj ordinaciji\03 Klase podataka\KlasePodataka\KlasePodataka\obj\Debug\KlasePodataka.csproj.CopyComplete
+C:\FaksSSD\3 Godina\PP\Evidencija izvrsenih intervencija u stomatoloskoj ordinaciji\03 Klase podataka\KlasePodataka\KlasePodataka\obj\Debug\KlasePodataka.dll
+C:\FaksSSD\3 Godina\PP\Evidencija izvrsenih intervencija u stomatoloskoj ordinaciji\03 Klase podataka\KlasePodataka\KlasePodataka\obj\Debug\KlasePodataka.pdb
+C:\Fakultet\Programski Prevodioci\Evidencija izvrsenih intervencija u stomatoloskoj ordinaciji\03 Klase podataka\KlasePodataka\KlasePodataka\bin\Debug\KlasePodataka.dll
+C:\Fakultet\Programski Prevodioci\Evidencija izvrsenih intervencija u stomatoloskoj ordinaciji\03 Klase podataka\KlasePodataka\KlasePodataka\bin\Debug\KlasePodataka.pdb
+C:\Fakultet\Programski Prevodioci\Evidencija izvrsenih intervencija u stomatoloskoj ordinaciji\03 Klase podataka\KlasePodataka\KlasePodataka\bin\Debug\DBUtils.dll
+C:\Fakultet\Programski Prevodioci\Evidencija izvrsenih intervencija u stomatoloskoj ordinaciji\03 Klase podataka\KlasePodataka\KlasePodataka\bin\Debug\DBUtils.pdb
+C:\Fakultet\Programski Prevodioci\Evidencija izvrsenih intervencija u stomatoloskoj ordinaciji\03 Klase podataka\KlasePodataka\KlasePodataka\obj\Debug\KlasePodataka.csproj.AssemblyReference.cache
+C:\Fakultet\Programski Prevodioci\Evidencija izvrsenih intervencija u stomatoloskoj ordinaciji\03 Klase podataka\KlasePodataka\KlasePodataka\obj\Debug\KlasePodataka.csproj.CoreCompileInputs.cache
+C:\Fakultet\Programski Prevodioci\Evidencija izvrsenih intervencija u stomatoloskoj ordinaciji\03 Klase podataka\KlasePodataka\KlasePodataka\obj\Debug\KlasePodataka.csproj.CopyComplete
+C:\Fakultet\Programski Prevodioci\Evidencija izvrsenih intervencija u stomatoloskoj ordinaciji\03 Klase podataka\KlasePodataka\KlasePodataka\obj\Debug\KlasePodataka.dll
+C:\Fakultet\Programski Prevodioci\Evidencija izvrsenih intervencija u stomatoloskoj ordinaciji\03 Klase podataka\KlasePodataka\KlasePodataka\obj\Debug\KlasePodataka.pdb
+C:\FaksSSD\3 Godina\PP\Evidencija izvrsenih intervencija u stomatoloskoj ordinaciji ISPRAVNO\03 Klase podataka\KlasePodataka\KlasePodataka\bin\Debug\KlasePodataka.dll
+C:\FaksSSD\3 Godina\PP\Evidencija izvrsenih intervencija u stomatoloskoj ordinaciji ISPRAVNO\03 Klase podataka\KlasePodataka\KlasePodataka\bin\Debug\KlasePodataka.pdb
+C:\FaksSSD\3 Godina\PP\Evidencija izvrsenih intervencija u stomatoloskoj ordinaciji ISPRAVNO\03 Klase podataka\KlasePodataka\KlasePodataka\bin\Debug\DBUtils.dll
+C:\FaksSSD\3 Godina\PP\Evidencija izvrsenih intervencija u stomatoloskoj ordinaciji ISPRAVNO\03 Klase podataka\KlasePodataka\KlasePodataka\bin\Debug\DBUtils.pdb
+C:\FaksSSD\3 Godina\PP\Evidencija izvrsenih intervencija u stomatoloskoj ordinaciji ISPRAVNO\03 Klase podataka\KlasePodataka\KlasePodataka\obj\Debug\KlasePodataka.csproj.AssemblyReference.cache
+C:\FaksSSD\3 Godina\PP\Evidencija izvrsenih intervencija u stomatoloskoj ordinaciji ISPRAVNO\03 Klase podataka\KlasePodataka\KlasePodataka\obj\Debug\KlasePodataka.csproj.CoreCompileInputs.cache
+C:\FaksSSD\3 Godina\PP\Evidencija izvrsenih intervencija u stomatoloskoj ordinaciji ISPRAVNO\03 Klase podataka\KlasePodataka\KlasePodataka\obj\Debug\KlasePodataka.csproj.CopyComplete
+C:\FaksSSD\3 Godina\PP\Evidencija izvrsenih intervencija u stomatoloskoj ordinaciji ISPRAVNO\03 Klase podataka\KlasePodataka\KlasePodataka\obj\Debug\KlasePodataka.dll
+C:\FaksSSD\3 Godina\PP\Evidencija izvrsenih intervencija u stomatoloskoj ordinaciji ISPRAVNO\03 Klase podataka\KlasePodataka\KlasePodataka\obj\Debug\KlasePodataka.pdb
+C:\Fakultet\Razvoj Softvera Otvorenog Koda\EIIUSO\03 Klase podataka\KlasePodataka\KlasePodataka\bin\Debug\KlasePodataka.dll
+C:\Fakultet\Razvoj Softvera Otvorenog Koda\EIIUSO\03 Klase podataka\KlasePodataka\KlasePodataka\bin\Debug\KlasePodataka.pdb
+C:\Fakultet\Razvoj Softvera Otvorenog Koda\EIIUSO\03 Klase podataka\KlasePodataka\KlasePodataka\bin\Debug\DBUtils.dll
+C:\Fakultet\Razvoj Softvera Otvorenog Koda\EIIUSO\03 Klase podataka\KlasePodataka\KlasePodataka\bin\Debug\DBUtils.pdb
+C:\Fakultet\Razvoj Softvera Otvorenog Koda\EIIUSO\03 Klase podataka\KlasePodataka\KlasePodataka\obj\Debug\KlasePodataka.csproj.AssemblyReference.cache
+C:\Fakultet\Razvoj Softvera Otvorenog Koda\EIIUSO\03 Klase podataka\KlasePodataka\KlasePodataka\obj\Debug\KlasePodataka.csproj.CoreCompileInputs.cache
+C:\Fakultet\Razvoj Softvera Otvorenog Koda\EIIUSO\03 Klase podataka\KlasePodataka\KlasePodataka\obj\Debug\KlasePodataka.csproj.CopyComplete
+C:\Fakultet\Razvoj Softvera Otvorenog Koda\EIIUSO\03 Klase podataka\KlasePodataka\KlasePodataka\obj\Debug\KlasePodataka.dll
+C:\Fakultet\Razvoj Softvera Otvorenog Koda\EIIUSO\03 Klase podataka\KlasePodataka\KlasePodataka\obj\Debug\KlasePodataka.pdb
+C:\Fakultet\DIPLOMSKI RAD\EIIUSO\03 Klase podataka\KlasePodataka\KlasePodataka\bin\Debug\KlasePodataka.dll
+C:\Fakultet\DIPLOMSKI RAD\EIIUSO\03 Klase podataka\KlasePodataka\KlasePodataka\bin\Debug\KlasePodataka.pdb
+C:\Fakultet\DIPLOMSKI RAD\EIIUSO\03 Klase podataka\KlasePodataka\KlasePodataka\bin\Debug\DBUtils.dll
+C:\Fakultet\DIPLOMSKI RAD\EIIUSO\03 Klase podataka\KlasePodataka\KlasePodataka\bin\Debug\DBUtils.pdb
+C:\Fakultet\DIPLOMSKI RAD\EIIUSO\03 Klase podataka\KlasePodataka\KlasePodataka\obj\Debug\KlasePodataka.csproj.AssemblyReference.cache
+C:\Fakultet\DIPLOMSKI RAD\EIIUSO\03 Klase podataka\KlasePodataka\KlasePodataka\obj\Debug\KlasePodataka.csproj.CoreCompileInputs.cache
+C:\Fakultet\DIPLOMSKI RAD\EIIUSO\03 Klase podataka\KlasePodataka\KlasePodataka\obj\Debug\KlasePodataka.csproj.CopyComplete
+C:\Fakultet\DIPLOMSKI RAD\EIIUSO\03 Klase podataka\KlasePodataka\KlasePodataka\obj\Debug\KlasePodataka.dll
+C:\Fakultet\DIPLOMSKI RAD\EIIUSO\03 Klase podataka\KlasePodataka\KlasePodataka\obj\Debug\KlasePodataka.pdb
